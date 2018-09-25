@@ -4,7 +4,10 @@ import java.io.IOException;
 import java.net.Socket;
 import java.util.logging.Level;
 import java.util.logging.Logger;
-
+/**
+ *
+ * @author Mehrab
+ */
 public class FileTransmitter extends Thread {
 
     String hostname;

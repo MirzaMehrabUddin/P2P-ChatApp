@@ -10,6 +10,10 @@ import p2p.chatapp.gui.networking.FileTransmitter;
 import p2p.chatapp.gui.networking.MessageListener;
 import p2p.chatapp.gui.networking.MessageTransmitter;
 import p2p.chatapp.gui.networking.WritableGUI;
+/**
+ *
+ * @author Mehrab
+ */
 
 public class MainScreen extends javax.swing.JFrame implements WritableGUI {
 
